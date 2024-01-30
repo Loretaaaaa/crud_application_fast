@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Loreta",
+      "username": "lol",
+      "email": "loreta@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Zhanna",
+      "username": "Zhennie",
+      "email": "Zhanna@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Galya",
+      "username": "Gaaalllyaaa",
+      "email": "Galya@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Artyom",
+      "username": "Tyommm ",
+      "email": "Tyom@hmail.com",
+      "id": 4
+    },
+    {
+      
+      "name": "Hrant",
+      "username": "Hranttttt",
+      "email": "Hrant@gmail.com",
+      "id": 5
+    }
+    
+  ]
+}
